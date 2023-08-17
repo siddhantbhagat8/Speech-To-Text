@@ -2,12 +2,10 @@
 Welcome to the Speech-To-Text Converter project! It's designed to convert spoken language into written text using advanced algorithms and tools.
 
 # Table of Contents
-* Features
-* Technologies Used
-* Installation
-* Usage
-* Contribution
-* Contact
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [Installation](#installation)
+* [Usage](#usage)
 
 # Features
 *  Real-time Speech Recognition: Convert your voice into text in real-time.
